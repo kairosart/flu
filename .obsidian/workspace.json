@@ -1,0 +1,494 @@
+{
+  "main": {
+    "id": "e8b1e7079213cea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0fe6c66f88da91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de2c4d076d9ffcf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c. LOCAL PRIVILEGE ESCALATION/6. RunasCs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "6. RunasCs"
+            }
+          },
+          {
+            "id": "48b51a0c4672cdcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About this lab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "About this lab"
+            }
+          },
+          {
+            "id": "07bca3c63cf1ba89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c. LOCAL PRIVILEGE ESCALATION/8. DLL Hijacking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "8. DLL Hijacking"
+            }
+          },
+          {
+            "id": "85fb5a8fa9424bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About this lab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "About this lab"
+            }
+          },
+          {
+            "id": "d2bb87a95a43867b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "flu-report.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "flu-report"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59f5b281e6b58f79",
+    "type": "split",
+    "children": [
+      {
+        "id": "941175c1b68bc5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49d2e38fa784abc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "91c119d2813493c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "impac",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f96d0dd5b100941c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a605ebd7d88e884",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f02e6917260f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0749071249cbc61a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "POST EXPLOITATION - DOCKER CONTAINER/Network Pivoting with Ligolo-ng.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Network Pivoting with Ligolo-ng"
+            }
+          },
+          {
+            "id": "2832ae88491beccb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef987eada1a092d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "flu-report.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "234e1b52f43a3509",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "acfee9d8c712cec4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "f9e6d96c08f6c5f9",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "34ada4ce040e1290",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "244889e36b790803",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "f03fbd0fe7e34dce",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "0973b8c9049c677e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "7711c1c662e3b4d7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "09b24090f2e19672",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "4d2cc0b2874dce13",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "c7ea46f4ae9f1153",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "c5feba088f7ff76b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "b8056bd3db8bfe39",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "5250c79fb74c0274",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "db60bf747bddb875",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "da108edba16f1c08",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "a1db7ba901f4faef",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "8926545c4f5945d9",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "77b9f82da5701df4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
+            }
+          },
+          {
+            "id": "c0720f8a3e3166b1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
+            }
+          },
+          {
+            "id": "f01cce034a6bac2c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "1f28291494552af0",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "juggl:Juggl global graph": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "custom-sort:Toggle custom sorting": false,
+      "print-studio:Print Studio": false
+    }
+  },
+  "active": "d2bb87a95a43867b",
+  "lastOpenFiles": [
+    "flu/README.md",
+    "flu",
+    "Flags.md",
+    "flu-report.pdf",
+    "c. LOCAL PRIVILEGE ESCALATION/1. Cron - log-backup.sh.md",
+    "Session log - 2026-10-09.md",
+    "About this lab.md",
+    "B. POST-EXPLOITATION/1. Initial Access (CVE-2022-26134).md",
+    "A. ENUMERATION/2. Web Services Enumeration.md",
+    "A. ENUMERATION/1. Reconnaissance & Target Profiling.md",
+    "c. LOCAL PRIVILEGE ESCALATION",
+    "B. POST-EXPLOITATION",
+    "Access-Lab-Walkthrough.pdf",
+    "Access.zip",
+    "A. ENUMERATION/2. File Upload Enumeration & Obstacles.md",
+    "B. POST-EXPLOITATION & CLI Tooling/4. Enumeration Checklist to Run Inside Your CLI.md",
+    "Welcome.md",
+    "POST-EXPLOITATION & CLI Tooling/Untitled 1",
+    "POST-EXPLOITATION & CLI Tooling/Untitled",
+    "B. POST-EXPLOITATION & CLI Tooling/3. Developing a Python Wrapper.md",
+    "c. LOCAL PRIVILEGE ESCALATION/8. DLL Hijacking.md",
+    "c. LOCAL PRIVILEGE ESCALATION/9. Flags.md",
+    "c. LOCAL PRIVILEGE ESCALATION/7. SeManageVolumePrivilege.md",
+    "c. LOCAL PRIVILEGE ESCALATION/6. RunasCs.md",
+    "images/system_shell.png",
+    "images/RunasCs.png",
+    "c. LOCAL PRIVILEGE ESCALATION/5. Kerberoasting attack.md",
+    "images/nt_authority.png",
+    "images/ntsystem_shell.png",
+    "images/tzres.dll.png",
+    "images/SeManageVolumeExploit.png",
+    "LOCAL PRIVILEGE ESCALATION/6. BloodHound.md",
+    "images/svc_mssql_privileges.png",
+    "images/image-1.png",
+    "images/test_runascs.png",
+    "images/bloodhound.png",
+    "B. POST-EXPLOITATION & CLI Tooling",
+    "images/Untitled.md",
+    "images",
+    "Access/README.md",
+    "PRIVILEGE ESCALATION/Enumerate.md",
+    "EXPLOITATION/WinPEAS and CVE-2024-30088.md",
+    "EXPLOITATION/Reverse shell on DC02.md",
+    "EXPLOITATION/Shell as darkzero-ext svc_sql on DC02.md",
+    "EXPLOITATION/Sysadmin on DC02 via linked server.md",
+    "EXPLOITATION/Lateral Movement via MSSQL Linked Server.md",
+    "EXPLOITATION/Untitled.canvas"
+  ]
+}
