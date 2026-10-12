@@ -443,10 +443,12 @@
   },
   "active": "d2bb87a95a43867b",
   "lastOpenFiles": [
+    "Report generation.md",
+    "flu-report.pdf",
+    "frontpage.png",
     "flu/README.md",
     "flu",
     "Flags.md",
-    "flu-report.pdf",
     "c. LOCAL PRIVILEGE ESCALATION/1. Cron - log-backup.sh.md",
     "Session log - 2026-10-09.md",
     "About this lab.md",
@@ -478,7 +480,6 @@
     "images/svc_mssql_privileges.png",
     "images/image-1.png",
     "images/test_runascs.png",
-    "images/bloodhound.png",
     "B. POST-EXPLOITATION & CLI Tooling",
     "images/Untitled.md",
     "images",
@@ -487,8 +488,6 @@
     "EXPLOITATION/WinPEAS and CVE-2024-30088.md",
     "EXPLOITATION/Reverse shell on DC02.md",
     "EXPLOITATION/Shell as darkzero-ext svc_sql on DC02.md",
-    "EXPLOITATION/Sysadmin on DC02 via linked server.md",
-    "EXPLOITATION/Lateral Movement via MSSQL Linked Server.md",
     "EXPLOITATION/Untitled.canvas"
   ]
 }

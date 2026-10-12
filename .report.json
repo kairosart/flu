@@ -1,0 +1,11 @@
+{
+  "lab": "flu",
+  "os": "Linux",
+  "title": "OffSec Proving Grounds",
+  "report_type": "Penetration Test Report",
+  "user_flag": "200cc2b7da11821c04d8679132346baa",
+  "root_flag": "9e3f5a6cd336b6484534968851db36fb",
+  "summary": "CVE-2022-26134 · Cron / script-hijack privesc",
+  "front_image": "frontpage.png",
+  "exclude": ["Report generation.md"]
+}
